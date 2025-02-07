@@ -11,7 +11,7 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https:https://linkedin.com/in/jaime-andrade-de-almeida-0777ba2a5">Jaime 1</a>
+- <a href="https:[https://linkedin.com/in/jaime-andrade-de-almeida-0777ba2a5"](https://www.linkedin.com/in/mike-buchsenspaner-445a2934b/)>mike 1</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
